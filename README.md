@@ -54,10 +54,6 @@ Postman_API_Campus_Project/
 │ └── 📄 APITesting_UserStories.xlsx
 └── 📄 README.md
 
-yaml
-Kopyala
-Düzenle
-
 ---
 
 ## 🧪 Testing Techniques Used
@@ -80,7 +76,18 @@ Düzenle
   - Dynamic chaining of requests
 
 ---
+## 👥 Contributors
 
+| 👤 Name | 🛠️ Role |
+|:--------|:--------|
+| [Baris Saydam](https://github.com/BarisSaydam) | QA Tester |
+| [Diyar Olmez](https://github.com/diyarolmezz) | QA Tester |
+| [Erdem Ozkan](https://github.com/ErdemOzkann) | QA Tester |
+| [Omer Boncuk](https://github.com/palanque92) | QA Tester |
+| [Atilla Toros Avci](https://github.com/AtillaTorosAvci) | QA Tester |
+| [Gamze Batmaz](https://github.com/GAMZE3845) | QA Tester |
+
+---
 ## 🧩 Sample Workflow
 
 ```bash
